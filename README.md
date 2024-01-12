@@ -72,3 +72,4 @@ Limited to 200 calls/hour/user. The integration normally polls once every hour.
 
 ## Inspiration
 https://github.com/uphillbattle/NettleieElvia
+https://github.com/sindrebroch/ha-elvia
